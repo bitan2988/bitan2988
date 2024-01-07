@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bitan2988
-- 👀 I’m interested in Microcontrollers, data structures and algorithms, cyber security
-- 🌱 I’m currently learning bit by bit all  of the above
-- 💞️ I’m looking to collaborate on any project on the above tecchnologies
-- 📫 How to reach me send a mail at darkwolf29888@gmail.com
+Hi, I am Bitan.
+I currently work as a Data Engineer.
+I have experience with Python, SQL, Azure, PySpark, and PowerBI.
+I also have a keen interest in Data Analysis and love to visualize data and uncover their story.
+I try to learn more about statistics and use statistical tests on the data.
 
 <!---
 bitan2988/bitan2988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
