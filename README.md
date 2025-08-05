@@ -2,7 +2,9 @@
 - I currently work as a Data Engineer.
 - I have experience with Python, SQL, Azure, PySpark, and PowerBI.
 - I also have a keen interest in Data Analysis and love to visualize data and uncover their story.
-- I try to learn more about statistics and use statistical tests on the data.
+- I try to learn more about statistics and try to leverage spark to run statistical tests and models.
+- I am currently learning about LLMs and RAGs and trying to leverage/integrate into my daily DE tasks.
+- Please reach out to me via LinkedIn : https://www.linkedin.com/in/bitansarkar/
 
 <!---
 bitan2988/bitan2988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
